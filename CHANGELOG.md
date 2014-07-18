@@ -9,6 +9,7 @@
 - Add humans.txt
 - Remove HE:labs logo from the default README
 - Load the timezone from the TZ env & fallback to Brasilia (America/Sao_Paulo)
+- Update gem versions
 
 ## 0.0.15 (July 4, 2014)
 
